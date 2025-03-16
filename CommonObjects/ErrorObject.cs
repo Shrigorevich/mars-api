@@ -1,4 +1,4 @@
-﻿namespace Services.Contracts;
+﻿namespace CommonObjects;
 
 public class ErrorObject(string code, string message)
 {

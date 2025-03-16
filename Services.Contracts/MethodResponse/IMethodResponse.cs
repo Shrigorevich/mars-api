@@ -1,4 +1,6 @@
-﻿namespace Services.Contracts;
+﻿using CommonObjects;
+
+namespace Services.Contracts;
 
 public interface IMethodResponse<out T>
 {

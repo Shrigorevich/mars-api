@@ -1,6 +1,7 @@
 ﻿using CommonObjects;
+using Services.Contracts;
 
-namespace Services.Contracts;
+namespace Services;
 
 public class MethodResponse<T> : IMethodResponse<T>
 {
